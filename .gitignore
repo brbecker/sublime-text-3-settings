@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Sublime Text 3
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.*-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+oscrypto-ca-bundle.crt
