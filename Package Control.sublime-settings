@@ -10,9 +10,11 @@
 		"EditorConfig",
 		"FileDiffs",
 		"GitGutter",
+		"Jack",
 		"Package Control",
 		"PowerShell",
 		"Print to HTML",
 		"SideBarEnhancements"
+		"PowerCursors"
 	]
 }
